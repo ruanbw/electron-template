@@ -1,8 +1,7 @@
 <template>
     <div>
         <header class="flex gap-4">
-            <router-link to="/dashboard">dashboard</router-link>
-            <router-link to="/dashboard/workspace">dashboard/workspace</router-link>
+            <router-link to="/analytics">analytics</router-link>
             <router-link to="/workspace">workspace</router-link>
         </header>
         <main>
